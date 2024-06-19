@@ -1,0 +1,1 @@
+This example file in core php
